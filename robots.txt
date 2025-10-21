@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sammynjue.github.io/samtech-web2/sitemap.xml
