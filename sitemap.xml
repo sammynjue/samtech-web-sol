@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://sammynjue.github.io/samtech-web-sol/</loc>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://sammynjue.github.io/samtech-web-sol/index.html</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://sammynjue.github.io/samtech-web-sol/robots.txt</loc>
+      <priority>0.1</priority>
+   </url>
+   <url>
+      <loc>https://sammynjue.github.io/samtech-web-sol/styles.css</loc>
+      <priority>0.1</priority>
+   </url>
+   <!-- Add your images if you want Google to index them -->
+   <url>
+      <loc>https://sammynjue.github.io/samtech-web-sol/images/samtech-logo.jpeg.jpeg</loc>
+      <priority>0.3</priority>
+   </url>
+</urlset>
